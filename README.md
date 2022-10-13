@@ -2,7 +2,7 @@
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonise human navels.
+In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
@@ -28,7 +28,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `sample_values` for the marker size.
 
-* Use `otu_ids` for the marker colours.
+* Use `otu_ids` for the marker colors.
 
 * Use `otu_labels` for the text values.
 
@@ -60,7 +60,9 @@ The following task is advanced and therefore optional.
 
 ## Deployment
 
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+* Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+
+* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ## Hints
 
@@ -74,4 +76,4 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2019 Trilogy Education Services
